@@ -1,3 +1,0 @@
-Các kỹ thuật dùng trong dự án:
-+ Chia class
-+ Đặt tên BEM 
