@@ -437,7 +437,7 @@ option {
 }
 
 .info {
-  background: url(../../images/Wave_White_bottom_right_shape_01.png), #dcd1f3;
+  background: url(../images/Wave_White_bottom_right_shape_01.png), #dcd1f3;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
