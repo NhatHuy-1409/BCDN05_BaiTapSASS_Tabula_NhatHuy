@@ -12,6 +12,7 @@
     &-content__text {
         font-size: 3.8rem;
         padding: 0;
+        z-index: -1;
         h3 {
             @include styleText($font-primary, $color-purple, 1.1rem, $fw3);
             margin-bottom: 0.5em;
@@ -23,6 +24,7 @@
     }
     &-content__image {
         padding: 0;
+        z-index: -1;
     }
 }
 @media (max-width: 1199px) {
